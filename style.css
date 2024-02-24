@@ -1,0 +1,161 @@
+.section-1{
+    background-image: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width:1320px;
+    height: 600px;
+    margin:auto;
+}
+.section-1-title{
+    text-align: center;
+    color:white;
+    padding-top:100px; 
+    
+}
+.t-1 {
+    font-size: 24px;
+    
+    
+}
+.t-2{
+    font-size: 60px;
+}
+
+.section-2{
+    text-align: center;
+}
+.s2-t1{
+    color: red;
+    font-size: 100px;
+}
+.s2-t2{
+    color: red;
+}
+.s2-t3{
+    font-size: 60px;
+}
+.section-3{
+    display: flex;
+    margin:auto;
+    width:1320px;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.s-3 title{
+    
+}
+.s-3-t1{
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 650px;
+    font: 3em sans-serif;
+}
+.s-3-t2{
+    color: white;
+    padding-left: 100px;
+}
+.s-3-t3{
+    color: white;
+    padding-left: 100px;
+    width: 700px;
+}
+.s3-btn{
+    margin-left: 100px;
+}
+.s3-img{
+    padding-top: 50px;
+}
+.section-4{
+    margin:auto;
+    width:1320px;
+    margin-top: 100px;
+    text-align: center;
+    background:rgb(228, 212, 217);
+    height: 400px;
+    padding-top: 150px;
+}
+.s4-s1{
+    color: red;
+}
+.btn{
+    background-color: red;
+    color: aliceblue;
+    width: 150px;
+    height: 50px ;
+    
+}
+.section-5{
+    background-image: url(resources/Ellipse\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat; 
+    margin:auto;
+    width:1320px;
+    margin-top: 100px;
+    height: 400px;
+}
+.s5-title{
+    display: flex;
+}
+.s5-d1{
+    width: 400px;
+    margin-left: 50px;
+}
+.s5-d2{
+    width: 300px;
+    padding-left:550px;
+}
+.s5-t1{
+    color: red;
+}
+.s5-t2 {
+   font: 2em sans-serif;
+
+}
+.s5-t3{
+    font: 2em sans-serif;
+    color: red;
+}
+.section-6{
+    width:1320px;
+    margin-top: 100px;
+    margin: auto;
+}
+.section-7{
+    width:1320px;
+    height: 400px;
+    margin-top: 100px;
+    padding-top: 100px;
+    margin:auto;
+    background-color: pink;
+}
+.s7-title{
+    text-align: center;
+}
+.fild{
+    height: 50px ;
+}
+.f-d1{
+    display: flex;
+    
+ 
+    color: white;
+    text-align: center;
+    
+    
+}
+.icon{
+    text-align: center;
+}
+.dd{
+    padding-left: 90%;
+}
+.df{
+        
+}
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    padding: 100px;
+}
